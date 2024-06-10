@@ -2,6 +2,10 @@
 
 ![Star Wars Obi Wan Kenobi Hello There Meme](https://shortcdn.com/chrisshort/obi-wan-kenobi-hello-there.gif)
 
+[About Chris Short](https://chrisshort.net/about)  
+[Chris Short's CV](https://chrisshort.net/cv)  
+[Blog](https://chrisshort.net)
+
 <!--
 **chris-short/chris-short** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
