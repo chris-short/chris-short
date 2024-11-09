@@ -4,7 +4,8 @@
 
 [About Chris Short](https://chrisshort.net/about)  
 [Chris Short's CV](https://chrisshort.net/cv)  
-[Blog](https://chrisshort.net)
+[Web Site](https://chrisshort.net)
+[DevOps'ish subreddit](https://reddit.com/r/devopsish)
 
 <!--
 **chris-short/chris-short** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
