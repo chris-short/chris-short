@@ -6,7 +6,7 @@
 - 🔭 I’m currently looking for work and co-lead the Kubernetes Contributor Comms subproject
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/community/blob/master/communication/contributor-comms/README.md) and CNCF projects
 - 📫 How to reach me: [chrisshort.net/contact](https://chrisshort.net/contact/)
-- ⚡ Fun fact: I'm 6'4" (193 cm) and have the last name Short (I was given the callsign "Not So" by an Air Force colonel when I was stationed in Denver, Colorado)
+- ⚡ Fun fact: I'm 6'4" (193 cm) and have the last name Short
 
 [About Chris Short](https://chrisshort.net/about)
 
