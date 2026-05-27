@@ -12,6 +12,4 @@
 
 [Chris Short's Résumé](https://chrisshort.net/resume/)
 
-[Website and Socials](https://chrisshort.net)
-
-[DevOps'ish subreddit](https://reddit.com/r/devopsish)
+[Subscribe to DevOps'ish](https://devopsish.com)
